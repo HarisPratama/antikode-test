@@ -1,0 +1,1 @@
+SELECT name, address, longitude, latitude FROM `outlets`
